@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:27946",
+      "applicationUrl": "http://localhost:7753",
       "sslPort": 44362
     }
   },
@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "sports_store": {
+    "SportsStore": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

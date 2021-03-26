@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using sports_store.Models;
+using SportsStore.Models;
 
-namespace sports_store.Controllers
+namespace SportsStore.Controllers
 {
     public class HomeController : Controller
     {

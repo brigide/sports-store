@@ -1,6 +1,6 @@
 using System;
 
-namespace sports_store.Models
+namespace SportsStore.Models
 {
     public class ErrorViewModel
     {

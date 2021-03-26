@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\sports-store.csproj",
-      "projectName": "sports-store",
-      "projectPath": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\sports-store.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\SportsStore\\SportsStore.csproj",
+      "projectName": "SportsStore",
+      "projectPath": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\SportsStore\\SportsStore.csproj",
       "packagesPath": "C:\\Users\\Bruno.Osse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\obj\\",
+      "outputPath": "C:\\Users\\Bruno.Osse\\Documents\\www\\sports-store\\SportsStore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Bruno.Osse\\AppData\\Roaming\\NuGet\\NuGet.Config",
